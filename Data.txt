@@ -1,0 +1,15 @@
+This is a text file that contains
+the occasional email address no_one@nowhere.nothing
+with some telephone numbers as in 111-999-9876.
+
+Name: Unknown
+Email: who.Knows@everywhere.co.za
+Telephone: (999)123456
+or (111)111-11111111
+or 222-2222222
+even 3333333333
+
+but this is not a telephone number: 011-471-213
+and this has more than is needed 011-471-21300
+
+Send me@me.com or to 088-000-000
